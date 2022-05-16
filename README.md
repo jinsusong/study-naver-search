@@ -8,23 +8,23 @@
 
 
 
-- [Online Serving AD Relevance Model Using BERT](https://www.notion.so/Naver-Search-Colloquium-4edd7772dcec43bd94390e923d23da8f) **Commerce AI**
+- [Commerce AI : ](https://www.notion.so/Naver-Search-Colloquium-4edd7772dcec43bd94390e923d23da8f) **Online Serving AD Relevance Model Using BERT**
   - 광고 랭킹 & Cold-start Problem
   - bert 활용
   - 쿼리 → 실시간 임베딩 구함. → 최근 사용된 쿼리는 캐싱에 저장 →
 
-- [Conversational AI with Big Generative LM](https://www.notion.so/Naver-Search-Colloquium-4edd7772dcec43bd94390e923d23da8f) **NLP search**
+- [NLP search : ](https://www.notion.so/Naver-Search-Colloquium-4edd7772dcec43bd94390e923d23da8f) **Conversational AI with Big Generative LM**
   - 챗봇과 같은 대화에서는 시간에 따라 변화하는 대답( 날씨, 미세먼지 ,나이 등등..) 이 있고 변하지 않는 대답을 구분해서 대답해줌.
   - 더 자연스러운 대화를 위한 연구를 진행함.
 
-- [Meta-Learning for the low-resource domain](https://www.notion.so/Naver-Search-Colloquium-4edd7772dcec43bd94390e923d23da8f) **NLP papago**
+- [NLP papago : ](https://www.notion.so/Naver-Search-Colloquium-4edd7772dcec43bd94390e923d23da8f) **Meta-Learning for the low-resource domain**
   - 현재 일상대화에서의 번역은 잘 사용되지만
   - 특정 도메인에서의 번역은 잘 사용하지 않음.
   - 도메인 전문 번역기
   - 번역을 위한 코퍼스를 많이 학습하면 되지만 코퍼스가 많이 없을때는 어떻게 할까?
   - Source domain , Target domain, Shared Kneoledge
 
-- [NLP Search](https://www.notion.so/Naver-Search-Colloquium-4edd7772dcec43bd94390e923d23da8f) **Search Applications with Big Generative LM**
+- [NLP Search : ](https://www.notion.so/Naver-Search-Colloquium-4edd7772dcec43bd94390e923d23da8f) **Search Applications with Big Generative LM**
   - 검색 시스템
   - Null-query 유형 : 사용자 검색 질의에 검색 내용을 찾지 못한 경우 다른 질의로 바꿔서 검색
       - 오타가 있는 경우
